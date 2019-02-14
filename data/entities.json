@@ -612,5 +612,11 @@
     "homepage": "https://bootstrapcdn.com/",
     "categories": ["library"],
     "origins": ["maxcdn.bootstrapcdn.com", "cdn.bootcss.com"]
+  },
+  {
+    "name": "Heap",
+    "homepage": "https://heapanalytics.com/",
+    "categories": ["analytics"],
+    "origins": ["https://heapanalytics.com", "https://cdn.heapanalytics.com"]
   }
 ]
